@@ -1,10 +1,23 @@
 /* Add CSS Styling */
 
-p {
+.cool {
     background-color: #f2a5a0;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
 .cooler-size { font-size: 24px;
 
+}
+
+/* ids start! */
+
+#number-two {
+    color: #141ac9;
+    font-size: 24px;
+}
+
+#number-four {
+    background-color: #a5e8ab;
+    font-size: 24px;
+    font-weight: bold;
 }
