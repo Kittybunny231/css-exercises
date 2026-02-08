@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+p {
+    background-color: #f2a5a0;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cooler-size { font-size: 24px;
+
+}
